@@ -1,0 +1,11 @@
+[server][info] Running client on level: ../levels/MAsimple1.lvl
+SearchClient initializing.
+Starting best-first search using greedy evaluation.
+#Expanded:       27, #Frontier:      108, #Generated:      135, Time: 0.049 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Found solution of length 26.
+[client][info] Waiting for client process to terminate by itself.
+[client][info] Client terminated.
+[server][info] Level solved: Yes.
+[server][info] Actions used: 26.
+[server][info] Time to solve: 0.040 seconds.

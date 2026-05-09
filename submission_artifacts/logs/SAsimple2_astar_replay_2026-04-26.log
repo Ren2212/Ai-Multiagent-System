@@ -1,0 +1,64 @@
+#domain
+hospital
+#levelname
+SAsimple2
+#colors
+blue: 0, A, B, C
+#initial
+++++++++++++
++       0+ +
++ ++++++++A+
++          +
++B++++++++C+
++ +        +
+++++++++++++
+#goal
+++++++++++++
++        +A+
++ ++++++++ +
++          +
++ ++++++++ +
++B+C       +
+++++++++++++
+#end
+#clientname
+SearchClient
+#actions
+24326711:Move(W)
+25217989:Move(W)
+25660870:Move(W)
+25945854:Move(W)
+26320061:Move(W)
+26862785:Move(W)
+27052585:Move(W)
+27222124:Move(S)
+27457861:Move(S)
+27610960:Push(S,S)
+27858296:Move(N)
+28049947:Move(E)
+28362645:Move(E)
+28722114:Move(E)
+29013199:Move(E)
+29286723:Move(E)
+29509616:Move(E)
+29692856:Move(E)
+29882412:Move(E)
+30027159:Move(E)
+30425455:Push(N,N)
+31059251:Move(S)
+31340402:Push(S,S)
+31517366:Push(S,W)
+32599452:Push(W,W)
+32785759:Push(W,W)
+32975413:Push(W,W)
+33389858:Push(W,W)
+33606749:Push(W,W)
+33914631:Push(W,W)
+#end
+#solved
+true
+#numactions
+30
+#time
+33914631
+#end

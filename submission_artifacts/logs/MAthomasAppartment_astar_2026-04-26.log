@@ -1,0 +1,61 @@
+[server][info] Running client on level: ../levels/MAthomasAppartment.lvl
+SearchClient initializing.
+Starting phased planning mode.
+Phase solve for agent 1 (Blue) letter D.
+#Expanded:      106, #Frontier:      391, #Generated:      497, Time: 0.263 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 1 (Blue) letter E.
+#Expanded:        0, #Frontier:        0, #Generated:        0, Time: 0.272 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 1 (Blue) letter F.
+#Expanded:        0, #Frontier:        0, #Generated:        0, Time: 0.281 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 1 (Blue) letter G.
+#Expanded:        0, #Frontier:        0, #Generated:        0, Time: 0.291 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 2 (Cyan) letter H.
+#Expanded:      999, #Frontier:    5,168, #Generated:    6,167, Time: 2.250 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+#Expanded:    1,999, #Frontier:    9,851, #Generated:   11,850, Time: 4.309 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+#Expanded:    2,999, #Frontier:   13,534, #Generated:   16,533, Time: 6.369 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+#Expanded:    3,999, #Frontier:   17,171, #Generated:   21,170, Time: 8.492 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+#Expanded:    4,999, #Frontier:   20,921, #Generated:   25,920, Time: 10.367 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+#Expanded:    5,006, #Frontier:   20,940, #Generated:   25,946, Time: 10.373 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 2 (Cyan) letter I.
+#Expanded:       87, #Frontier:      315, #Generated:      402, Time: 10.594 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 2 (Cyan) letter J.
+#Expanded:        0, #Frontier:        0, #Generated:        0, Time: 10.614 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 2 (Cyan) letter K.
+#Expanded:        0, #Frontier:        0, #Generated:        0, Time: 10.628 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 2 (Cyan) letter L.
+#Expanded:       52, #Frontier:      183, #Generated:      235, Time: 10.846 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 3 (Purple) letter M.
+#Expanded:       42, #Frontier:      130, #Generated:      172, Time: 10.922 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 3 (Purple) letter N.
+#Expanded:        0, #Frontier:        0, #Generated:        0, Time: 10.931 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 0 (Red) letter C.
+#Expanded:      215, #Frontier:      654, #Generated:      869, Time: 11.284 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 0 (Red) letter B.
+#Expanded:        0, #Frontier:        0, #Generated:        0, Time: 11.315 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Phase solve for agent 0 (Red) letter A.
+#Expanded:       81, #Frontier:      209, #Generated:      290, Time: 11.608 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Found solution of length 633.
+[client][info] Waiting for client process to terminate by itself.
+[client][info] Client terminated.
+[server][info] Level solved: Yes.
+[server][info] Actions used: 633.
+[server][info] Time to solve: 11.684 seconds.

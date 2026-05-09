@@ -1,0 +1,11 @@
+[server][info] Running client on level: ../levels/SAsimple2.lvl
+SearchClient initializing.
+Starting best-first search using A* evaluation.
+#Expanded:       36, #Frontier:       18, #Generated:       54, Time: 0.030 s
+[Alloc: 0.00 MB, MaxAlloc: 4096.00 MB]
+Found solution of length 30.
+[client][info] Waiting for client process to terminate by itself.
+[client][info] Client terminated.
+[server][info] Level solved: Yes.
+[server][info] Actions used: 30.
+[server][info] Time to solve: 0.021 seconds.

@@ -1,0 +1,219 @@
+{
+  "live_runs": [
+    {
+      "log": "MAsimple1_greedy_2026-04-26.log",
+      "phased": false,
+      "last_status": {
+        "expanded": 27,
+        "frontier": 108,
+        "generated": 135,
+        "time_s": 0.049
+      },
+      "solved": "Yes",
+      "actions_used": 26,
+      "wall_time_s": 0.04
+    },
+    {
+      "log": "MAthomasAppartment_astar_2026-04-26.log",
+      "phased": true,
+      "last_status": {
+        "expanded": 81,
+        "frontier": 209,
+        "generated": 290,
+        "time_s": 11.608
+      },
+      "solved": "Yes",
+      "actions_used": 633,
+      "wall_time_s": 11.684
+    },
+    {
+      "log": "SAsimple2_astar_2026-04-26.log",
+      "phased": false,
+      "last_status": {
+        "expanded": 36,
+        "frontier": 18,
+        "generated": 54,
+        "time_s": 0.03
+      },
+      "solved": "Yes",
+      "actions_used": 30,
+      "wall_time_s": 0.021
+    }
+  ],
+  "phase_totals": {
+    "level": "MAthomasAppartment.lvl",
+    "strategy": "astar (phased)",
+    "cumulative_expanded": 5589,
+    "cumulative_generated": 28411,
+    "phases": [
+      {
+        "agent": 1,
+        "color": "Blue",
+        "letter": "D",
+        "final": {
+          "expanded": 106,
+          "frontier": 391,
+          "generated": 497,
+          "time_s": 0.263
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 1,
+        "color": "Blue",
+        "letter": "E",
+        "final": {
+          "expanded": 0,
+          "frontier": 0,
+          "generated": 0,
+          "time_s": 0.272
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 1,
+        "color": "Blue",
+        "letter": "F",
+        "final": {
+          "expanded": 0,
+          "frontier": 0,
+          "generated": 0,
+          "time_s": 0.281
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 1,
+        "color": "Blue",
+        "letter": "G",
+        "final": {
+          "expanded": 0,
+          "frontier": 0,
+          "generated": 0,
+          "time_s": 0.291
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 2,
+        "color": "Cyan",
+        "letter": "H",
+        "final": {
+          "expanded": 5006,
+          "frontier": 20940,
+          "generated": 25946,
+          "time_s": 10.373
+        },
+        "num_status_lines": 6
+      },
+      {
+        "agent": 2,
+        "color": "Cyan",
+        "letter": "I",
+        "final": {
+          "expanded": 87,
+          "frontier": 315,
+          "generated": 402,
+          "time_s": 10.594
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 2,
+        "color": "Cyan",
+        "letter": "J",
+        "final": {
+          "expanded": 0,
+          "frontier": 0,
+          "generated": 0,
+          "time_s": 10.614
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 2,
+        "color": "Cyan",
+        "letter": "K",
+        "final": {
+          "expanded": 0,
+          "frontier": 0,
+          "generated": 0,
+          "time_s": 10.628
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 2,
+        "color": "Cyan",
+        "letter": "L",
+        "final": {
+          "expanded": 52,
+          "frontier": 183,
+          "generated": 235,
+          "time_s": 10.846
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 3,
+        "color": "Purple",
+        "letter": "M",
+        "final": {
+          "expanded": 42,
+          "frontier": 130,
+          "generated": 172,
+          "time_s": 10.922
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 3,
+        "color": "Purple",
+        "letter": "N",
+        "final": {
+          "expanded": 0,
+          "frontier": 0,
+          "generated": 0,
+          "time_s": 10.931
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 0,
+        "color": "Red",
+        "letter": "C",
+        "final": {
+          "expanded": 215,
+          "frontier": 654,
+          "generated": 869,
+          "time_s": 11.284
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 0,
+        "color": "Red",
+        "letter": "B",
+        "final": {
+          "expanded": 0,
+          "frontier": 0,
+          "generated": 0,
+          "time_s": 11.315
+        },
+        "num_status_lines": 1
+      },
+      {
+        "agent": 0,
+        "color": "Red",
+        "letter": "A",
+        "final": {
+          "expanded": 81,
+          "frontier": 209,
+          "generated": 290,
+          "time_s": 11.608
+        },
+        "num_status_lines": 1
+      }
+    ]
+  }
+}

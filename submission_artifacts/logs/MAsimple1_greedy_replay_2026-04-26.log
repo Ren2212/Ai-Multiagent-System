@@ -1,0 +1,59 @@
+#domain
+hospital
+#levelname
+MAsimple1
+#colors
+red: 0, A
+green: 1, B
+#initial
+++++++++++++++++++++++++++++
++             0        A   +
++     1                B   +
++ +++++++++++++++++        +
++                          +
+++++++++++++++++++++++++++++
+#goal
+++++++++++++++++++++++++++++
++                       A  +
++                       B  +
++ +++++++++++++++++        +
++                          +
+++++++++++++++++++++++++++++
+#end
+#clientname
+SearchClient
+#actions
+61707523:NoOp|Move(E)
+63574265:NoOp|Move(E)
+63789840:NoOp|Move(E)
+64452209:NoOp|Move(E)
+64904359:NoOp|Move(E)
+65080090:NoOp|Move(E)
+65251342:NoOp|Move(E)
+65439185:NoOp|Move(E)
+65591299:NoOp|Move(E)
+65746930:NoOp|Move(E)
+65886465:Move(E)|NoOp
+66111811:Move(E)|NoOp
+66399532:NoOp|Move(E)
+66594507:NoOp|Move(E)
+66797923:Move(E)|NoOp
+66928440:Move(E)|NoOp
+67127259:Move(E)|NoOp
+67294144:Move(E)|NoOp
+67463649:NoOp|Move(E)
+67661903:NoOp|Move(E)
+67985621:Move(E)|NoOp
+69867445:Move(E)|NoOp
+71338125:Push(E,E)|NoOp
+71792971:NoOp|Move(E)
+72188657:NoOp|Move(E)
+72448329:NoOp|Push(E,E)
+#end
+#solved
+true
+#numactions
+26
+#time
+72448329
+#end
